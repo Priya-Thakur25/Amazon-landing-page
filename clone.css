@@ -115,7 +115,7 @@
 .hero-section{
     height:350px;
     background-size: cover;
-    background-image: url("clone_images/hero_sec.jpg");
+    background-image: url("hero_sec.jpg");
     display: flex;
     justify-content: center;
     align-items: flex-end;
